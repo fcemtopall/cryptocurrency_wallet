@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "819746344059",
+    "project_id": "cryptocurrencyapp-b5433",
+    "storage_bucket": "cryptocurrencyapp-b5433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819746344059:android:bcec900b7d6b8ba89a66de",
+        "android_client_info": {
+          "package_name": "com.example.cryptocurrency_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819746344059-cjhpggmh1tqh8f8or7fllksvt3qdifrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQkfQOZNhCyiC4LCEWOwAuAMcPaw2QCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819746344059-cjhpggmh1tqh8f8or7fllksvt3qdifrs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819746344059-snr7edf59og96jur7564e30qr5kffne8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cryptocurrencyWallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
